@@ -1,0 +1,9 @@
+C:\Users\Anb\Desktop\MyQueue\Receiver\obj\Debug\Receiver.Properties.Resources.resources
+C:\Users\Anb\Desktop\MyQueue\Receiver\obj\Debug\Receiver.csproj.GenerateResource.Cache
+C:\Users\Anb\Desktop\MyQueue\Receiver\bin\Debug\Receiver.exe.config
+C:\Users\Anb\Desktop\MyQueue\Receiver\bin\Debug\Receiver.exe
+C:\Users\Anb\Desktop\MyQueue\Receiver\bin\Debug\Receiver.pdb
+C:\Users\Anb\Desktop\MyQueue\Receiver\obj\Debug\Receiver.exe
+C:\Users\Anb\Desktop\MyQueue\Receiver\obj\Debug\Receiver.pdb
+C:\Users\Anb\Desktop\MyQueue\Receiver\obj\Debug\Receiver.Receiver.resources
+C:\Users\Anb\Desktop\MyQueue\Receiver\obj\Debug\Receiver.csprojResolveAssemblyReference.cache

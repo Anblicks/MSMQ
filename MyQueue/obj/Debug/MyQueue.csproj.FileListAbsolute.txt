@@ -1,0 +1,7 @@
+C:\Users\Anb\Desktop\MyQueue\bin\Debug\MyQueue.exe
+C:\Users\Anb\Desktop\MyQueue\bin\Debug\MyQueue.pdb
+C:\Users\Anb\Desktop\MyQueue\obj\Debug\MyQueue.csprojResolveAssemblyReference.cache
+C:\Users\Anb\Desktop\MyQueue\obj\Debug\MyQueue.csproj.GenerateResource.Cache
+C:\Users\Anb\Desktop\MyQueue\obj\Debug\MyQueue.exe
+C:\Users\Anb\Desktop\MyQueue\obj\Debug\MyQueue.pdb
+C:\Users\Anb\Desktop\MyQueue\obj\Debug\MyQueue.Sender.resources

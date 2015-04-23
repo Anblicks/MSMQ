@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyQueue", "MyQueue.csproj", "{33D648C3-8EF8-4A38-B951-EE773527ED59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Receiver", "Receiver\Receiver.csproj", "{2A743200-3DB2-48AF-9837-4DD2F3152818}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueingObjects", "QueueingObjects\QueueingObjects.csproj", "{8BD1E12A-1425-41F6-B2CE-FBD983BE2A16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33D648C3-8EF8-4A38-B951-EE773527ED59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33D648C3-8EF8-4A38-B951-EE773527ED59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33D648C3-8EF8-4A38-B951-EE773527ED59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33D648C3-8EF8-4A38-B951-EE773527ED59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A743200-3DB2-48AF-9837-4DD2F3152818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A743200-3DB2-48AF-9837-4DD2F3152818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A743200-3DB2-48AF-9837-4DD2F3152818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A743200-3DB2-48AF-9837-4DD2F3152818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BD1E12A-1425-41F6-B2CE-FBD983BE2A16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BD1E12A-1425-41F6-B2CE-FBD983BE2A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BD1E12A-1425-41F6-B2CE-FBD983BE2A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BD1E12A-1425-41F6-B2CE-FBD983BE2A16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
